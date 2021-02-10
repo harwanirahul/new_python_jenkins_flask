@@ -1,4 +1,6 @@
 flask
 flask_sqlalchemy
 marshmallow
-marshmallo_sqlalchemy
+marshmallow_sqlalchemy
+pymysql
+cryptography
